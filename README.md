@@ -1,9 +1,9 @@
 Hai, saya @Mekazu0
 👀 Saya tertarik pada pengembangan web
 🌱 Saat ini saya sedang belajar programan 
-💞️ Saya ingin berkolaborasi pada pengembangan wwb
+💞️ Saya ingin berkolaborasi pada pengembangan web
 📫 Bagaimana cara menghubungi saya mekazu268@gmail.com 
-😄 Kata ganti: github.com 
+ 
 ⚡ Fakta menarik: tentang github 
 
 <!---
